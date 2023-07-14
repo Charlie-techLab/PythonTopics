@@ -1,0 +1,2 @@
+¡Hola, qué bien que estés aprendiendo a programar en Python!
+Has abierto un documento de extensión .txt usando Python.
